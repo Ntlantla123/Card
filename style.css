@@ -1,0 +1,92 @@
+img {
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: relative;
+    top: 20px;
+    left: 1%;
+  }
+
+  .container {
+    background-color: rgb(218, 217, 217);
+    height: 730px;
+    width: 900px;
+    position: relative;
+    left: 25%;
+    top: -100px;
+    margin-top: 140px;
+    border-radius: 10px;
+    
+  }
+
+  h2{
+    position: relative;
+    top: -110px;
+    left: 20%;
+    color: rgb(41, 37, 37);
+  }
+
+  h3 {
+    position: relative;
+    top: -100px;
+    left: 20%;
+    color: rgb(41, 37, 37);
+  }
+
+  h1{
+    position: relative;
+    left: 3%;
+    color: rgb(41, 37, 37);
+    text-decoration-line: underline green;
+  }
+
+  h4 {
+    position: relative;
+    left: 3%;
+    color:  rgb(41, 37, 37);
+    font-size: 2rem;
+  }
+
+  p {
+    position: relative;
+    left: 4%;
+  }
+
+  
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-github {
+    background: transparent;
+    color: rgb(66, 63, 63);
+    position: relative;
+    left: 50%;
+    height: 30px;
+    
+  }
+  
+  .fa-twitter {
+    background: transparent;
+    color: rgb(66, 63, 63);
+    position: relative;
+    left: 30%;
+  }
+  
+  .fa-linkedin {
+    background: transparent;
+    color: rgb(66, 63, 63);
+    position: relative;
+    left: 10%;
+
+  }
